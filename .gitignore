@@ -1,0 +1,8 @@
+#Content
+art/
+emotion/
+image/
+
+
+#checkpoints
+.ipynb_checkpoints/
